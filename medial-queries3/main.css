@@ -174,8 +174,8 @@ body {
   }
   
   .h {
-    width: 35%;
-    height: 30vh;
+    width: 35vw;
+    height: 35vh;
     margin: 15px;
     border: 2px solid blue;
   }
